@@ -1,7 +1,7 @@
 # Elder Scrolls Legends Card API
 
 
-I thought this coding exercise would be an excellent opportunity to learn the Vue.js Framework. I used the first part of this tutorial to set up my app: 
+I thought this coding exercise would be an excellent opportunity to learn the Vue.js Framework. I used the first part of this tutorial and some of the starter files to set up my app: 
      [Build Your First Vue.js App](https://vuejsdevelopers.teachable.com/p/build-your-first-vue-js-app)
 
 I created a basic Node server in server.js and also created a proxy so I would be able to access the API.
@@ -23,13 +23,13 @@ Ensure [Node.js  >=10](https://nodejs.org/en/download/), [NPM](https://docs.npmj
         ```
         cd /path/to/install/location
         
-        git clone https://github.com/[your_username]/poster-shop.git
+        git clone https://github.com/[your_username]/hspot_exercise.git
         ```
 
 2. Change directory into the local clone of the repository
 
     ```
-    cd poster-shop
+    cd hspot_exercise
     ```
 
 3. Install dependencies
