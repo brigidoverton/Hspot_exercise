@@ -8,6 +8,14 @@ I created a basic Node server in server.js and also created a proxy so I would b
 
 Since I'm not technically a front end engineer, it's probably not the most beautiful app, but it was very fun to use this opportunity to learn a new framework and put myself out of my comfort zone!
 
+TODO:
+
+I would have love to add a "scroll to top" button, as it feels like you can really get lost in the infinite scroll of the cards. 
+
+I also would like to have the search bar be a little more dynamic, so that when the query is cleared the screen automatically repopulates with the first batch of cards. 
+
+
+Thank you to Highspot for giving me the opportunity to learn something new and develop my skills even more, and thank you for taking the time to go over my code!
 
 #### Pre-installation
 
